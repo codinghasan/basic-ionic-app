@@ -1,0 +1,7 @@
+{
+  "name": "Kronometre",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
